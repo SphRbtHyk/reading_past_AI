@@ -20,7 +20,7 @@ We welcome contributions on the following themes, but not exhaustively:
 
 7. Knowledge representation and reasoning about ancient artifacts (ontological modeling, knowledge graphs, and automatic extraction of entities and relations from epigraphic, papyrological, or codicological corpora)
 
-Submissions concerning digitization projects or digital editions are considered outside the conference's thematic scope. Paper proposals should be submitted as an abstract of 500 words maximum, accompanied by a brief biographical note, to <sophie.robert@sorbonne-universite.fr> and <maria-victoria.eyharabide@sorbonne-universite.fr>. The deadline for submitting paper proposals is on the 1st of October 2026.
+Submissions concerning digitization projects or digital editions are considered outside the conference's thematic scope. Paper proposals should be submitted as an abstract of 500 words maximum, accompanied by a brief biographical note, to <sophie.robert@sorbonne-universite.fr> and <maria-victoria.eyharabide@sorbonne-universite.fr>. The deadline for submitting paper proposals is on the 1st of December 2026.
 
 **Organizers**: Sophie Robert-Hayek and Victoria Eyharabide
 
